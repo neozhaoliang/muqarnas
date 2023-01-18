@@ -1,1 +1,1 @@
-from .npvectors import *
+from .vector import *
